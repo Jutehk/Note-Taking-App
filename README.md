@@ -6,6 +6,7 @@ Designed not just for utility, but also as a **software testing showcase project
 ---
 
 ## 🚀 Live Demo
+
 [Click here to try the app](#) <!-- Replace with actual GitHub Pages or Netlify link -->
 
 ---
@@ -25,20 +26,24 @@ Designed not just for utility, but also as a **software testing showcase project
 This project was built to demonstrate various testing techniques:
 
 ### ✅ Manual Test Cases
+
 - Functional, boundary, integration, and negative tests
 - Located in: [`__tests__/manual_test_cases.md`](./__tests__/manual_test_cases.md)
 
 ### ✅ Unit Tests (Jest-style)
+
 - Test core logic in `notes.js` (e.g. `saveNote`, `deleteNote`)
 - Located in: [`__tests__/notes.test.js`](./__tests__/notes.test.js)
 
 ### ✅ Test Report
+
 - Summary of testing approach, bugs found, and resolutions
 - Located in: [`Test_Report.md`](./Test_Report.md)
 
 ### ✅ Bug Reporting
+
 - Issues raised and resolved via GitHub
-- View Issues: [GitHub Issues](https://github.com/your-username/your-repo/issues)
+- View Issues: [GitHub Issues](https://github.com/Jutehk/Note-Taking-App/issues/1#issue-3154625200)
 
 ---
 
@@ -52,4 +57,3 @@ This project was built to demonstrate various testing techniques:
 ---
 
 ## 📂 Folder Structure
-
