@@ -7,7 +7,7 @@ Designed not just for utility, but also as a **software testing showcase project
 
 ## 🚀 Live Demo
 
-[Click here to try the app](https://jutehk.github.io/Note-Taking-App/) <!-- Replace with actual GitHub Pages or Netlify link -->
+[Click here to try the app](https://notetakingap.netlify.app/) <!-- Replace with actual GitHub Pages or Netlify link -->
 
 ---
 
